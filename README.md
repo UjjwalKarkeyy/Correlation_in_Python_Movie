@@ -7,11 +7,10 @@ This project explores and analyzes a dataset of movies using Python. It provides
 ## 📁 Repository Structure
 
 ```
-movie-analysis/
+Correlation_in_Python_Movie/
 ├── data/
 │   └── movies.csv                  # Dataset used in the analysis
-├── main.ipynb                      # Original notebook
-├── main_fully_documented.ipynb     # Fully documented version
+├── main.ipynb                      # Original notebook + Documented
 └── README.md                       # Project documentation
 ```
 
