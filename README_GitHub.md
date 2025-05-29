@@ -78,12 +78,6 @@ _Data Analyst | Python & SQL Enthusiast | Lifelong Learner_
 
 ---
 
-## 📄 License
-
-This project is open-sourced under the MIT License.
-
----
-
 ## 📌 Future Work (Optional Ideas)
 
 - Perform EDA: ratings vs genres, top-grossing movies, correlation heatmaps
